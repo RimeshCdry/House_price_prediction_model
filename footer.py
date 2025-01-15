@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Footer with LinkedIn and GitHub links
-developer_email = 'rimeshcdry45@gmail.com'
+developer_email = 'example@gmail.com'
 def footer_page():    
     st.markdown("---")
     st.markdown("© 2025 Rimesh Chaudhary. All rights reserved.")
